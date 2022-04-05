@@ -10,7 +10,7 @@ For questions or additional data requests please email Jewelia Yao (jeweliayao@p
 ### Dependencies/Requirements ###
 * No downloads are required. Binder will build the enviroment with necessary dependencies to allow the notbook to be run online.
   * requirements.txt will be used by binder to set up dependencies.
-  * install.R installs necessary r-packages (tidyverse)
+  * install.R installs necessary r-packages (tidyverse, ggplot2)
   * runtime.txt sets R environment. Needed for rpy2
 * Note: initial environment build can be slow. Depending on your system it can take ~15 mins to setup. This is only true for the first time you launch binder. Binder will output logs during this process, do not refresh the page.
 
