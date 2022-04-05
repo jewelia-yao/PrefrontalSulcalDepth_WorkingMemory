@@ -3,20 +3,20 @@ Analysis pipeline and data for the manuscript Yao et al. (2022) Sulcal depth in 
 
 For questions or additional data requests please email Jewelia Yao (jeweliayao@princeton.edu)
 
-Instructions for use
+## Instructions for use ##
 *Access the analysis notebook Binder
 
-Dependencies/Requirements
+### Dependencies/Requirements ###
 * No downloads are required. Binder will build the enviroment with necessary dependencies to allow the notbook to be run online.
   * requirements.txt will be used by binder to set up dependencies.
   * install.R installs necessary r-packages (tidyverse)
   * runtime.txt sets R environment. Needed for rpy2
 * Note: initial environment build can be slow. Depending on your system it can take ~15 mins to setup. This is only true for the first time you launch binder. Binder will output logs during this process, do not refresh the page.
 
-Associated data
+### Associated data ###
 * All associated data needed to implement statistical analyses and generate figures is included in the repository.
 
-List of data files:
+### List of data files: ###
   * sulcal_depth.csv: sulcal depth and behavioral data in wide format for each sample
   * cortical_thickness.csv: cortical thickness and behavioral data in wide format for each sample
   * LHbackwards_scores.csv: behavioral data for the selected model in long format for each subject
