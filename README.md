@@ -21,5 +21,6 @@ For questions or additional data requests please email Jewelia Yao (jeweliayao@p
   * cortical_thickness.csv: cortical thickness and behavioral data in wide format for each sample
   * LHbackwards_scores.csv: behavioral data for the selected model in long format for each subject
   * anova_?.csv: all subject depth data (mean, standard deviation) for each sulcal label in each hemisphere in long format for rm-anovas.
+  * demographics: all subject demographic information
   * figures: model predictions formatted for visualization are saved as .csv files in this dir for later use/plotting in R etc.
 
