@@ -3,8 +3,8 @@ Analysis pipeline and data for the manuscript Yao et al. (2022) Sulcal depth in 
 
 For questions or additional data requests please email Jewelia Yao (jeweliayao@princeton.edu)
 
-## Instructions for use ##
-*Access the analysis notebook Binder
+### Instructions for use ###
+* Access the analysis notebook Binder
 
 ### Dependencies/Requirements ###
 * No downloads are required. Binder will build the enviroment with necessary dependencies to allow the notbook to be run online.
